@@ -1,2 +1,2 @@
 # openHAC
-smart home atomatically controller framework
+smart Home Atomatically Controller framework
